@@ -1,0 +1,51 @@
+{
+  "tender": {
+    "tender_id": "TENDER-2026-9081",
+    "title": "Procurement of IT Hardware and Software Support Services",
+    "procuring_entity": "Department of Information and Communication Technology",
+    "bidder": "Tech Solutions Ltd",
+    "submission_deadline": "2026-12-31"
+  },
+  "requirements": [
+    {
+      "id": "req-1",
+      "order": 1,
+      "title_en": "Valid Trade License",
+      "title_bn": "হালনাগাদ ট্রেড লাইসেন্স",
+      "mandatory": true,
+      "has_expiry": true
+    },
+    {
+      "id": "req-2",
+      "order": 2,
+      "title_en": "Tax Clearance Certificate (TIN)",
+      "title_bn": "আয়কর প্রত্যয়ন পত্র",
+      "mandatory": true,
+      "has_expiry": true
+    },
+    {
+      "id": "req-3",
+      "order": 3,
+      "title_en": "BIN Registration Certificate",
+      "title_bn": "ভ্যাট/বিন রেজিস্ট্রেশন সনদ",
+      "mandatory": true,
+      "has_expiry": false
+    },
+    {
+      "id": "req-4",
+      "order": 4,
+      "title_en": "Bank Solvency Certificate",
+      "title_bn": "ব্যাংক স্বচ্ছলতা সনদ",
+      "mandatory": true,
+      "has_expiry": false
+    },
+    {
+      "id": "req-5",
+      "order": 5,
+      "title_en": "ISO 9001 Quality Assurance Certificate",
+      "title_bn": "আইএসও ৯০০১ মান নিয়ন্ত্রণ সনদ",
+      "mandatory": false,
+      "has_expiry": true
+    }
+  ]
+}
